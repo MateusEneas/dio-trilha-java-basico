@@ -14,6 +14,7 @@ public class Operadores {
         numero++;
         System.out.println(numero);*/
 
+
         int a = 5;
         int b = 6;
         String resultado = a==b ? "Verdadeiro" : "Falso";
