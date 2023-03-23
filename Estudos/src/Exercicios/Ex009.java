@@ -12,7 +12,7 @@ public class Ex009 {
         int menorIdade = 0;
         int comparacao = 100;
 
-        System.out.print("Quantas pessoas são: ");
+        System.out.print("Quantas pessoas são: " );
         int qtdPessoas = sc.nextInt();
         System.out.println();
 
